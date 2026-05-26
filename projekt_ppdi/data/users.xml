@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <username>admin</username>
+        <password>admin123</password>
+        <role>administrator</role>
+    </user>
+    <user>
+        <username>editor</username>
+        <password>sports2026</password>
+        <role>editor</role>
+    </user>
+    <user>
+        <username>guest</username>
+        <password>katalog</password>
+        <role>viewer</role>
+    </user>
+</users>

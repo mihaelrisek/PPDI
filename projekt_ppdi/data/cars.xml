@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <id>1</id>
+        <brand>Porsche</brand>
+        <model>911 Turbo S</model>
+        <year>2024</year>
+        <engine>3.8L twin-turbo flat-six</engine>
+        <horsepower>650 KS</horsepower>
+        <acceleration>2.7 s</acceleration>
+        <topSpeed>330 km/h</topSpeed>
+        <drivetrain>AWD</drivetrain>
+        <transmission>8-speed PDK automatic</transmission>
+        <price>235.000 EUR</price>
+        <shortDescription>Ikonični 911 s brutalnim ubrzanjem i svakodnevnom upotrebljivošću.</shortDescription>
+        <fullDescription>Porsche 911 Turbo S spaja prepoznatljiv dizajn, svakodnevnu udobnost i performanse superautomobila. Aktivni aerodinamički elementi, pogon na sve kotače i precizno upravljanje čine ga jednim od najkompletnijih sportskih automobila današnjice.</fullDescription>
+        <image>assets/images/car1.jpg</image>
+    </car>
+    <car>
+        <id>2</id>
+        <brand>Ferrari</brand>
+        <model>488 GTB</model>
+        <year>2020</year>
+        <engine>3.9L twin-turbo V8</engine>
+        <horsepower>670 KS</horsepower>
+        <acceleration>3.0 s</acceleration>
+        <topSpeed>330 km/h</topSpeed>
+        <drivetrain>RWD</drivetrain>
+        <transmission>7-speed dual-clutch</transmission>
+        <price>260.000 EUR</price>
+        <shortDescription>Talijanski egzotični coupe s eksplozivnim V8 karakterom.</shortDescription>
+        <fullDescription>Ferrari 488 GTB donosi agresivnu aerodinamiku, precizno upravljanje i intenzivan osjećaj vožnje. Biturbo V8 motor razvija snažan potisak kroz cijeli raspon okretaja, a zvučna kulisa ostaje nezaobilazan dio iskustva.</fullDescription>
+        <image>assets/images/car2.jpg</image>
+    </car>
+    <car>
+        <id>3</id>
+        <brand>Lamborghini</brand>
+        <model>Huracan EVO</model>
+        <year>2023</year>
+        <engine>5.2L naturally aspirated V10</engine>
+        <horsepower>640 KS</horsepower>
+        <acceleration>2.9 s</acceleration>
+        <topSpeed>325 km/h</topSpeed>
+        <drivetrain>AWD</drivetrain>
+        <transmission>7-speed dual-clutch</transmission>
+        <price>290.000 EUR</price>
+        <shortDescription>Ekstrovertirani V10 superautomobil s oštrim linijama i dramom.</shortDescription>
+        <fullDescription>Huracan EVO koristi atmosferski V10 motor koji nudi trenutni odziv i spektakularan zvuk. Napredna dinamika vozila, aktivna elektronika i prepoznatljiv dizajn pretvaraju svaku vožnju u događaj.</fullDescription>
+        <image>assets/images/car3.jpg</image>
+    </car>
+    <car>
+        <id>4</id>
+        <brand>Nissan</brand>
+        <model>GT-R Nismo</model>
+        <year>2022</year>
+        <engine>3.8L twin-turbo V6</engine>
+        <horsepower>600 KS</horsepower>
+        <acceleration>2.9 s</acceleration>
+        <topSpeed>315 km/h</topSpeed>
+        <drivetrain>AWD</drivetrain>
+        <transmission>6-speed dual-clutch</transmission>
+        <price>215.000 EUR</price>
+        <shortDescription>Japanska legenda poznata po brutalnom launchu i tehničkoj preciznosti.</shortDescription>
+        <fullDescription>Nissan GT-R Nismo već godinama nosi nadimak Godzilla zahvaljujući impresivnim performansama i ogromnom tuning potencijalu. Nismo izvedba dodatno naglašava trkaći karakter kroz ovjes, aerodinamiku i odziv motora.</fullDescription>
+        <image>assets/images/car4.jpg</image>
+    </car>
+    <car>
+        <id>5</id>
+        <brand>Audi</brand>
+        <model>R8 Performance</model>
+        <year>2023</year>
+        <engine>5.2L naturally aspirated V10</engine>
+        <horsepower>620 KS</horsepower>
+        <acceleration>3.1 s</acceleration>
+        <topSpeed>331 km/h</topSpeed>
+        <drivetrain>AWD</drivetrain>
+        <transmission>7-speed S tronic</transmission>
+        <price>225.000 EUR</price>
+        <shortDescription>Elegantni njemački superautomobil s prepoznatljivim V10 motorom.</shortDescription>
+        <fullDescription>Audi R8 Performance spaja svakodnevnu ergonomiju s egzotičnim proporcijama. Quattro pogon daje sigurnost pri snažnim ubrzanjima, dok centralno smješten V10 motor pruža linearan i emotivan isporučaj snage.</fullDescription>
+        <image>assets/images/car5.jpg</image>
+    </car>
+    <car>
+        <id>6</id>
+        <brand>Chevrolet</brand>
+        <model>Corvette C8 Stingray</model>
+        <year>2024</year>
+        <engine>6.2L naturally aspirated V8</engine>
+        <horsepower>495 KS</horsepower>
+        <acceleration>3.0 s</acceleration>
+        <topSpeed>312 km/h</topSpeed>
+        <drivetrain>RWD</drivetrain>
+        <transmission>8-speed dual-clutch</transmission>
+        <price>110.000 EUR</price>
+        <shortDescription>Mid-engine Corvette s odličnim omjerom cijene i performansi.</shortDescription>
+        <fullDescription>Corvette C8 donijela je veliku promjenu prelaskom na centralno smješten motor. Time je dobivena bolja raspodjela mase, ozbiljnija dinamika i izgled koji je bliži europskim superautomobilima nego klasičnim američkim coupeima.</fullDescription>
+        <image>assets/images/car1.jpg</image>
+    </car>
+    <car>
+        <id>7</id>
+        <brand>McLaren</brand>
+        <model>720S</model>
+        <year>2022</year>
+        <engine>4.0L twin-turbo V8</engine>
+        <horsepower>720 KS</horsepower>
+        <acceleration>2.9 s</acceleration>
+        <topSpeed>341 km/h</topSpeed>
+        <drivetrain>RWD</drivetrain>
+        <transmission>7-speed dual-clutch</transmission>
+        <price>305.000 EUR</price>
+        <shortDescription>Lagana konstrukcija i eksplozivno ubrzanje za čisto supercar iskustvo.</shortDescription>
+        <fullDescription>McLaren 720S koristi karbonsku MonoCage II strukturu i aerodinamički sofisticirano tijelo. Rezultat je automobil nevjerojatne agilnosti, vrlo brz na ravnici i izuzetno sposoban na stazi.</fullDescription>
+        <image>assets/images/car2.jpg</image>
+    </car>
+    <car>
+        <id>8</id>
+        <brand>BMW</brand>
+        <model>M4 Competition</model>
+        <year>2024</year>
+        <engine>3.0L twin-turbo inline-six</engine>
+        <horsepower>530 KS</horsepower>
+        <acceleration>3.5 s</acceleration>
+        <topSpeed>290 km/h</topSpeed>
+        <drivetrain>AWD</drivetrain>
+        <transmission>8-speed automatic</transmission>
+        <price>125.000 EUR</price>
+        <shortDescription>Visokoperformansni coupe koji spaja luksuz, tehnologiju i snagu.</shortDescription>
+        <fullDescription>BMW M4 Competition nudi snažan redni šestcilindraš, preciznu šasiju i kvalitetno izrađen interijer. Praktičniji je od čistokrvnih superautomobila, ali i dalje vrlo ozbiljan kada se cesta ili staza otvore.</fullDescription>
+        <image>assets/images/car3.jpg</image>
+    </car>
+    <car>
+        <id>9</id>
+        <brand>Mercedes-AMG</brand>
+        <model>GT R</model>
+        <year>2021</year>
+        <engine>4.0L twin-turbo V8</engine>
+        <horsepower>585 KS</horsepower>
+        <acceleration>3.6 s</acceleration>
+        <topSpeed>318 km/h</topSpeed>
+        <drivetrain>RWD</drivetrain>
+        <transmission>7-speed AMG Speedshift DCT</transmission>
+        <price>190.000 EUR</price>
+        <shortDescription>Duga hauba, agresivan stance i sirovi AMG V8 karakter.</shortDescription>
+        <fullDescription>Mercedes-AMG GT R razvijen je uz snažan utjecaj iskustva s Nürburgringa. Širok trag kotača, aktivna aerodinamika i snažan biturbo V8 stvaraju automobil koji je istovremeno brutalan i vrlo precizan.</fullDescription>
+        <image>assets/images/car4.jpg</image>
+    </car>
+    <car>
+        <id>10</id>
+        <brand>Toyota</brand>
+        <model>GR Supra</model>
+        <year>2024</year>
+        <engine>3.0L turbo inline-six</engine>
+        <horsepower>340 KS</horsepower>
+        <acceleration>4.1 s</acceleration>
+        <topSpeed>250 km/h</topSpeed>
+        <drivetrain>RWD</drivetrain>
+        <transmission>8-speed automatic</transmission>
+        <price>72.000 EUR</price>
+        <shortDescription>Kompaktni sportski coupe s fokusom na zabavnu vožnju i balans.</shortDescription>
+        <fullDescription>Toyota GR Supra moderna je interpretacija kultnog imena, s odličnim omjerom performansi, upravljivosti i cijene. Redni šestcilindraš pruža snažan potisak, a kratki međuosovinski razmak čini automobil vrlo razigranim.</fullDescription>
+        <image>assets/images/car5.jpg</image>
+    </car>
+</cars>

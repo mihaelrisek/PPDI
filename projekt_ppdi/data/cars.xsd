@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="cars">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="car" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="id" type="xs:positiveInteger"/>
+                            <xs:element name="brand" type="xs:string"/>
+                            <xs:element name="model" type="xs:string"/>
+                            <xs:element name="year" type="xs:gYear"/>
+                            <xs:element name="engine" type="xs:string"/>
+                            <xs:element name="horsepower" type="xs:string"/>
+                            <xs:element name="acceleration" type="xs:string"/>
+                            <xs:element name="topSpeed" type="xs:string"/>
+                            <xs:element name="drivetrain" type="xs:string"/>
+                            <xs:element name="transmission" type="xs:string"/>
+                            <xs:element name="price" type="xs:string"/>
+                            <xs:element name="shortDescription" type="xs:string"/>
+                            <xs:element name="fullDescription" type="xs:string"/>
+                            <xs:element name="image" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
